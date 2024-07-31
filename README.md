@@ -7,7 +7,7 @@ This project is part of the 100-Day Data Analyst Visualization Challenge, aimed 
   <li>Total Sales: Aggregated total sales for the selected period.</li>
 <li>Units Sold: Total units sold.</li>
 <li>Average Price: Average selling price per unit.</li>
-<li>otal Operating Profit: Cumulative operating profit.</li>T</ul>
+<li>Total Operating Profit: Cumulative operating profit.</li></ul>
 <h3>Sales by Beverages Brand</h3>
 Detailed comparison of sales performance between 2022 and 2023 for top beverage brands.
 <h3>Sales by Retailer</h3>
